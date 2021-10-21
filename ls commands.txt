@@ -1,0 +1,13 @@
+Ctrl+L to clear screen
+| less :- page wise content
+less doc :- name gives a view of document
+cat /etc/os-release:- to know full details of ubuntu system
+ls -l:- gives a detailed view
+ls -a:- to see hidden files
+ls -lrt:- sorts files on last modified
+ls a* :- show every file with name starting with a
+ls *a :-show every file with name ending with a
+ls -r:- to see complete file path
+
+
+
